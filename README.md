@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinserrano01
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, C an Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C an Python
 - 💞️ I’m looking to collaborate on a proyect
 - 📫 How to reach me: kevinserrano010@gmail.com
 
