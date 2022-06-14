@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @kevinserrano01
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C an Python
-- 💞️ I’m looking to collaborate on a proyect
-- 📫 How to reach me: kevinserrano010@gmail.com
+# Hi, I'm Kevin Serrano! 👋
 
-<!---
-kevinserrano01/kevinserrano01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🚀 About Me
+Soy Web Developer. Comence a estudiar a principios del año 2022 de manera autodidacta. En marzo entre en un curso de desarrollo web para convertirme en Front End developer. En mayo comence a Estudiar JavaScript de forma autodidacta.
+
+Continuo capacitandome en nuevas tecnologias para poder conseguir un puesto laboral como Front-end Developer. Actualmente me estoy capacitando en JavaScript.
+
+Soy estudiante de la 'Tecnicatura universitaria en programacion' en la Universidad Nacional de Salta.
+
+Gracias por leerme!
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-serrano-86711a231/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kev_code_)
+
+
+## Contacto
+
+kevinserrano010@gmail.com
