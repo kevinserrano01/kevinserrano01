@@ -12,7 +12,7 @@ Gracias por leerme!
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB...
+Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB, Java, SQL...
 
 
 ## 🔗 Links
