@@ -4,7 +4,7 @@
 ## 🚀 About Me
 Soy Web Developer. Comence a estudiar a principios del año 2022 de manera autodidacta. En marzo entre en un curso de desarrollo web para convertirme en Front End developer. En mayo comence a Estudiar JavaScript de forma autodidacta.
 
-Continuo capacitandome en nuevas tecnologias para poder conseguir un puesto laboral como Front-end Developer. Actualmente me estoy capacitando en React js.
+Continuo capacitandome en nuevas tecnologias para poder conseguir un puesto laboral como Front-end Developer. Actualmente me estoy capacitando en React js y Python.
 
 Soy estudiante de la 'Tecnicatura universitaria en programacion' en la Universidad Nacional de Salta y tambien en 'Desarrollo de software' en la UPATECO.
 
@@ -12,7 +12,7 @@ Gracias por leerme!
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB, Java, Figma.
+Python, Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB, Java, Figma.
 
 
 ## 🔗 Links
