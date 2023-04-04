@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-Soy Web Developer. Comence a estudiar a principios del año 2022 de manera autodidacta. En marzo entre en un curso de desarrollo web para convertirme en Front End developer. En mayo comence a Estudiar JavaScript de forma autodidacta.
+Soy Web Developer. Comence a estudiar a principios del año 2021 de manera autodidacta. En marzo entre en un curso de desarrollo web para convertirme en Front End developer. En mayo comence a Estudiar JavaScript de forma autodidacta.
 
 Continuo capacitandome en nuevas tecnologias para poder conseguir un puesto laboral como Front-end Developer. Actualmente me estoy capacitando en React y Angular.
 
