@@ -12,7 +12,7 @@ Gracias por leerme!
 
 
 ## 🛠 Skills
-Python, Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB, Figma.
+Python, Django, SQL, Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB, Figma.
 
 
 ## 🔗 Links
