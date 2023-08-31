@@ -10,7 +10,7 @@ Soy estudiante de la 'Tecnicatura universitaria en programacion' en la Universid
 Gracias por leerme!
 
 ## 🛠 Skills
-Python, Django, MySQL, Javascript, HTML, CSS, BOOTSTRAP, SASS, GIT, GITHUB, Jira, Scrum.
+Python, Django, Flask, MySQL, Javascript, HTML, CSS, BOOTSTRAP, GIT, GITHUB, Jira, Scrum.
 
 
 ## 🔗 Links
