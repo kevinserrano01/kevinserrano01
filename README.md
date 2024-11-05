@@ -10,7 +10,7 @@ Soy estudiante de la Universidad Provincial de Administración, Tecnología y Of
 Gracias por leerme!
 
 ## 🛠 Skills
-Python, Django, Flask, PHP, Laravel, MySQL, Javascript, React, HTML, CSS, BOOTSTRAP, GIT, GITHUB, Jira, Scrum.
+Python, Django, Flask, MySQL, Javascript, React, HTML, CSS, BOOTSTRAP, GIT, GITHUB, Jira, Scrum.
 
 
 ## 🔗 Links
