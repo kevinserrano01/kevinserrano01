@@ -2,19 +2,15 @@
 
 
 ## 🚀 About Me
-Comence a estudiar a principios del año 2021 de manera autodidacta. En marzo entre en un curso de desarrollo web para convertirme en FullStack Developer. 
-A principios del año 2022 me empece a capacitar la parte del Backend con Python y sus dos frameworks llamados Django y Flask. Tambien eh aprendido a manejar MySQL para la base de datos.
-
-Soy estudiante de la Universidad Provincial de Administración, Tecnología y Oficios (UPATECO) en la tecnicatura 'Desarrollo de software'.
-
-Gracias por leerme!
+Me presento como detallista y siempre con motivación de aprender algo nuevo. Me adapto fácilmente a las situaciones, al trabajo en equipo y a
+las nuevas problemáticas por mi tendencia a la buena predisposición, ante todo.
+Cuento con pensamiento creativo, proactividad, trabajo en equipo, comunicación y autonomía.
 
 ## 🛠 Skills
-Python, Django, Flask, MySQL, Javascript, React, HTML, CSS, BOOTSTRAP, GIT, GITHUB, Jira, Scrum.
+Python, Django Rest Framework, Flask, MySQL, Javascript, React, PHP/Laravel, HTML, CSS, BOOTSTRAP, GIT, GITHUB, Jira, Scrum.
 
 
 ## 🔗 Links
-[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://kevdeveloper.pythonanywhere.com))](#)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-serrano-86711a231/)
 
 
